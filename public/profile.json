@@ -92,8 +92,15 @@
         "designation": "Web Developer III",
         "details": "Maintenance and development of a charging system making integration with clients services to provide a better way to get results."
       },
-      {
+  	{
         "id": "3",
+        "from_to_month_year": "DECEMBER 2011 - ACTUAL ALTERNATIVE JOB",
+        "organization": "Tohr PDV",
+        "designation": "Developer/Owner",
+        "details": "Sales System. NF-e and NFC-e."
+      },
+      {
+        "id": "4",
         "from_to_month_year": "MARCH 2010 - DECEMBER 2011",
         "organization": "WA Sistemas",
         "designation": "Developer",
