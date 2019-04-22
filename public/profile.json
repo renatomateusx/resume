@@ -12,7 +12,7 @@
       "skype": "https://is.gd/6d83X8"
     }
   ],
-	"basicInformation": [
+"basicInformation": [
       {
         "about": "I´m a Lauro de Freitas based Software Engineer.",
         "aboutmore": "Front-End and Back-End developer, always looking for new technologies and get aprimorating knowledgment.",
@@ -77,7 +77,7 @@
       }
 	  ],
 
-	  "exprienceData": [
+     "exprienceData": [
       {
         "id": "1",
         "from_to_month_year": "APRIL 2014 - TODAY",
@@ -92,7 +92,7 @@
         "designation": "Web Developer III",
         "details": "Maintenance and development of a charging system making integration with clients services to provide a better way to get results."
       },
-  	{
+      {
         "id": "3",
         "from_to_month_year": "DECEMBER 2011 - ACTUAL ALTERNATIVE JOB",
         "organization": "Tohr PDV",
