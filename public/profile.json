@@ -64,7 +64,13 @@
           "id": "7",
           "skill": "MVC",
           "progress": "100%"
-        }
+        },
+         {
+          "id": "8",
+          "skill":"GraphQL",
+          "progress":"60%"
+
+          }
 	  ],
 
 	  "educationData": [
