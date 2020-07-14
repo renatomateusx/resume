@@ -83,6 +83,13 @@
 	  ],
 
      "exprienceData": [
+      {
+        "id": "0",
+        "from_to_month_year": "FREELANCER",
+        "organization": "Thuor",
+        "designation": "Desenvolvedor",
+        "details": "Thuor.com - Sistema para dropshipper aumentarem suas vendas. Processador de pagamentos e ferramentas para dropshipper. https://app.thuor.com."
+      },
        {
         "id": "1",
         "from_to_month_year": "MAIO 2019 - ATUALMENTE",
